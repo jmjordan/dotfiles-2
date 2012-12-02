@@ -9,6 +9,7 @@ alias iaa="cd ~/Dropbox/Desktop/iamantsy"
 alias oiaa="open ~/Dropbox/Desktop/iamantsy"
 alias screensaver-bg="/System/Library/Frameworks/ScreenSaver.framework/Resources/ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine -background"
 alias iaa-chrome="open /Users/jonathan/Dropbox/Desktop/iamantsy/Applications/Portable\ Chromium.app"
+alias iaa-vlc="open /Users/jonathan/Dropbox/Desktop/iamantsy/Applications/Portable\ VLC.app"
 # Shortcuts
 alias d="cd ~/Dropbox"
 alias p="cd ~/Dropbox/Projects"
