@@ -7,6 +7,8 @@ alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
 alias iaa="cd ~/Dropbox/Desktop/iamantsy"
 alias oiaa="open ~/Dropbox/Desktop/iamantsy"
+alias screensaver-bg="/System/Library/Frameworks/ScreenSaver.framework/Resources/ScreenSaverEngine.app/Contents/MacOS/ScreenSaverEngine -background"
+alias iaa-chrome="open /Users/jonathan/Dropbox/Desktop/iamantsy/Applications/Portable\ Chromium.app"
 # Shortcuts
 alias d="cd ~/Dropbox"
 alias p="cd ~/Dropbox/Projects"
